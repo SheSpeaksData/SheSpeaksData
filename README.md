@@ -21,7 +21,7 @@
 
 ## 🔍 About Me
 
-<img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/main/assets/typing-computer.gif" align="right" width="250" alt="Me at work gif" />
+<img src="https://raw.githubusercontent.com/SheSpeaksData/SheSpeaksData/main/assets/typing-computer.gif" align="right" width="250" alt="Me at work gif" />
 
 I’m a data-driven professional with a background in **solution advising** and a strong foundation in:
 
@@ -31,6 +31,7 @@ I’m a data-driven professional with a background in **solution advising** and 
 - 🤝 **Stakeholder Management**: Effective communication and collaboration across teams
 - 🔁 **Agile Methodologies**: Iterative problem-solving and continuous improvement
 - 🗣️ **Data Storytelling**: Translating data into impactful narratives
+
 
 ---
 
