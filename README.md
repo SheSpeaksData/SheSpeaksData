@@ -60,12 +60,13 @@ I believe creativity and curiosity fuel innovation—even in tech!
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Agile-FF6F61?style=for-the-badge" />
+  <img src= "https://github.com/SheSpeaksData/SheSpeaksData/blob/2ad3c2c1a5b6b09379fff15fa760f4a5e45d452f/python%20logo.png" width=20% />
+  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/MySQL.png" width=20% />
+  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/R_logo.svg" width=20%  />
+  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/Tableau%20(2).png" width=20% />
+  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/powerbi.png" width=20%  />
+  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/Agile.png" width=20% />
+   <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/Web%20developement.png" width=20% />
 </p>
 
 ---
@@ -99,6 +100,10 @@ Here are a few projects that showcase my skills:
 ## 🌐 Community & Initiatives
 
 ### 💡 HerDataHub
+
+<p align="center">
+  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/3ab15c8644f4e5d7bd61576d3387fb12380ddc09/HerDataHub.png" width= 40% />
+</p>
 
 I am the founder of **HerDataHub**, a platform dedicated to empowering women in data analytics. Our mission is to:
 
