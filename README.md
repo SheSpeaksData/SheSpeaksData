@@ -1,6 +1,5 @@
 
 #  
-
 <!-- Banner image -->
 
 <p align="center">
@@ -66,8 +65,10 @@ I believe creativity and curiosity fuel innovation—even in tech!
   <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/R_logo.svg" width=20%  />
   <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/Tableau%20(2).png" width=20% />
   <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/powerbi.png" width=20%  />
-  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/Agile.png" width=20% />
    <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/Web%20developement.png" width=20% />
+   <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/7df749eef27e7814bae43b5ad753b484a83745b7/Figma%20.png" width=20% />
+  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/412a2bb6ab2dabf5b7a7d5e3ae2d0db839f47d81/Agile.png" width=20% />
+  
 </p>
 
 ---
