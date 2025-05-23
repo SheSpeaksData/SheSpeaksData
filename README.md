@@ -21,15 +21,16 @@
 
 ## 🔍 About Me
 
-I’m a data-driven professional with a background in **solution advising** and a strong foundation in:                             <p align="center">
-  <img src=https://images.app.goo.gl/y9q6q3qKyEmceFhD7/>
-</p>
+<img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/main/assets/typing-computer.gif" align="right" width="250" alt="Me at work gif" />
 
-- 📊 **Data Analysis & Visualization**: Power BI, Tableau, Excel  
-- 🧮 **Programming & Query Languages**: Python, SQL, R  
-- 🤝 **Stakeholder Management**: Communication and collaboration across teams  
-- 🔁 **Agile Methodologies**: Iterative problem-solving and continuous improvement  
-- 🗣️ **Data Storytelling**: Making insights meaningful and accessible to everyone  
+I’m a data-driven professional with a background in **solution advising** and a strong foundation in:
+
+- 📊 **Data Analysis & Visualization**: Experienced in **Power BI**, **Tableau**, **Excel**
+- 🧮 **Programming & Query Languages**: Skilled in **Python**, **SQL**, **R**
+- 🧠 **Analytical Thinking**: Turning raw data into actionable insights
+- 🤝 **Stakeholder Management**: Effective communication and collaboration across teams
+- 🔁 **Agile Methodologies**: Iterative problem-solving and continuous improvement
+- 🗣️ **Data Storytelling**: Translating data into impactful narratives
 
 ---
 
