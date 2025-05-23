@@ -2,7 +2,10 @@
 #  
 
 <!-- Banner image -->
-<img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/4d6a33751ccf0a8a9e5d60e1dfad8a377440b007/Modern-she-speaks-data.png?raw=true" alt="SheSpeaksData Banner" width="100%" />
+
+<p align="center">
+<img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/4d6a33751ccf0a8a9e5d60e1dfad8a377440b007/Modern-she-speaks-data.png?raw=true" alt="SheSpeaksData Banner" width="80%" />
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=32&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hey..+I'm+Mayowa+Aka+SheSpeaksData;This+is..;..my+Github..;" alt="Typing SVG"/>
 
