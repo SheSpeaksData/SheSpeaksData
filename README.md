@@ -44,6 +44,9 @@ I’m a data-driven professional with a background in **solution advising** and 
 
 ## 🎤 Fun Fact
 
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM3ZDN4OXNwdjlubWs0bTg2ZjA5b2lhMXg0aHlnMTI5ZXU3ZWtpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lgeAjEEz7fj15LCIBZ/giphy.gif" align="right" width="250" alt="Fun Facts GIF" />
+
 When I'm not analyzing data or designing dashboards, you can find me:
 
 - Singing 🎶  
