@@ -1,5 +1,9 @@
 
 #  
+<p align="center">
+<img src="https://raw.githubusercontent.com/SheSpeaksData/SheSpeaksData/892063966bd58c908b668528ae7647bc32dbfd18/she-speaks-data-banner.png" alt="She Speaks Data Banner" width="80%" />
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=32&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hey..+I'm+Mayowa+Aka+SheSpeaksData;This+is..;..my+Github..;" alt="Typing SVG"/>
 
 </div>
@@ -21,7 +25,7 @@
 
 ## 🔍 About Me
 
-<img src="https://raw.githubusercontent.com/SheSpeaksData/SheSpeaksData/main/assets/typing-computer.gif" align="right" width="250" alt="Me at work gif" />
+<img src="https://raw.githubusercontent.com/SheSpeaksData/SheSpeaksData/556965352a98772a975a5f31b93d0cad9d12e624/typing-computer.gif" align="right" width="250" alt="Me at work gif" />
 
 I’m a data-driven professional with a background in **solution advising** and a strong foundation in:
 
@@ -31,6 +35,7 @@ I’m a data-driven professional with a background in **solution advising** and 
 - 🤝 **Stakeholder Management**: Effective communication and collaboration across teams
 - 🔁 **Agile Methodologies**: Iterative problem-solving and continuous improvement
 - 🗣️ **Data Storytelling**: Translating data into impactful narratives
+
 
 
 ---
