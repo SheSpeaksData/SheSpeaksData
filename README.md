@@ -1,10 +1,8 @@
 
 #  
 
-<p align="center">
-  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/4d6a33751ccf0a8a9e5d60e1dfad8a377440b007/Modern-she-speaks-data.png?raw=true" alt="SheSpeaksData Banner" width= 80% />
-</p>
-
+<!-- Banner image -->
+<img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/4d6a33751ccf0a8a9e5d60e1dfad8a377440b007/Modern-she-speaks-data.png?raw=true" alt="SheSpeaksData Banner" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=32&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hey..+I'm+Mayowa+Aka+SheSpeaksData;This+is..;..my+Github..;" alt="Typing SVG"/>
 
@@ -12,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif?cid=ecf05e47q8vfzy6nyq12dlj79x497ajb8wum2s4bv28o299c&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="20%" />
+  <img src="https://media.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif?cid=ecf05e47q8vfzy6nyq12dlj79x497ajb8wum2s4bv28o299c&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30%" />
 </p>
 
 
