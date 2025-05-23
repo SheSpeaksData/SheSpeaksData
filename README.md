@@ -1,16 +1,16 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src=https://media.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif?cid=ecf05e47q8vfzy6nyq12dlj79x497ajb8wum2s4bv28o299c&ep=v1_gifs_search&rid=giphy.gif&ct=g/>
-</p>
-
 
 #  
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=32&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hey..+I'm+Mayowa+Aka+SheSpeaksData;This+is..;..my+Github..;" alt="Typing SVG"/>
 
 </div>
 
+<!-- Banner Image -->
+<p align="center">
+  <img src=https://media.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif?cid=ecf05e47q8vfzy6nyq12dlj79x497ajb8wum2s4bv28o299c&ep=v1_gifs_search&rid=giphy.gif&ct=g/>
+</p>
 
-<h1 align="center">Hi there, I'm Mayowa 👋</h1>
+
+<h1 align="center">Hi 🌍, I'm Mayowa 👋</h1>
 
 <p align="center">
   Aspiring <strong>Data Analyst</strong> | <strong>Product Analyst</strong> | <strong>Business Intelligence Analyst</strong><br>
@@ -21,7 +21,9 @@
 
 ## 🔍 About Me
 
-I’m a data-driven professional with a background in **solution advising** and a strong foundation in:                              
+I’m a data-driven professional with a background in **solution advising** and a strong foundation in:                             <p align="center">
+  <img src=https://images.app.goo.gl/y9q6q3qKyEmceFhD7/>
+</p>
 
 - 📊 **Data Analysis & Visualization**: Power BI, Tableau, Excel  
 - 🧮 **Programming & Query Languages**: Python, SQL, R  
