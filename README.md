@@ -1,7 +1,8 @@
 
 #  
+
 <p align="center">
-  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/4d6a33751ccf0a8a9e5d60e1dfad8a377440b007/Modern-she-speaks-data.png?raw=true" alt="SheSpeaksData Banner" width= 100% />
+  <img src="https://github.com/SheSpeaksData/SheSpeaksData/blob/4d6a33751ccf0a8a9e5d60e1dfad8a377440b007/Modern-she-speaks-data.png?raw=true" alt="SheSpeaksData Banner" width= 80% />
 </p>
 
 
@@ -9,9 +10,9 @@
 
 </div>
 
-<!-- Banner Image -->
+
 <p align="center">
-  <img src=https://media.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif?cid=ecf05e47q8vfzy6nyq12dlj79x497ajb8wum2s4bv28o299c&ep=v1_gifs_search&rid=giphy.gif&ct=g/>
+  <img src="https://media.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif?cid=ecf05e47q8vfzy6nyq12dlj79x497ajb8wum2s4bv28o299c&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="20%" />
 </p>
 
 
